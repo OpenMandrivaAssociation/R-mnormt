@@ -2,8 +2,8 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.4
-Release:          5
+Version:          1.4_5
+Release:          1
 Summary:          The multivariate normal and t distributions
 Group:            Sciences/Mathematics
 License:          GPLv2

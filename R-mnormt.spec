@@ -10,6 +10,7 @@ License:          GPLv2
 URL:              http://cran.r-project.org/web/packages/mnormt/index.html
 Source0:          http://cran.r-project.org/src/contrib/mnormt_1.4-5.tar.gz
 BuildRequires:    R-devel
+Requires:         R-core
 
 %description
 This package provides functions for computing the density and the distribution

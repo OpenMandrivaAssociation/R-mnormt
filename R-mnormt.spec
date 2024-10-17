@@ -7,7 +7,7 @@ Release:          1
 Summary:          The multivariate normal and t distributions
 Group:            Sciences/Mathematics
 License:          GPLv2
-URL:              http://cran.r-project.org/web/packages/mnormt/index.html
+URL:              https://cran.r-project.org/web/packages/mnormt/index.html
 Source0:          http://cran.r-project.org/src/contrib/mnormt_1.4-5.tar.gz
 BuildRequires:    R-devel
 Requires:         R-core
